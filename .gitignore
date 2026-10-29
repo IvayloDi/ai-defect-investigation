@@ -1,0 +1,16 @@
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Editor
+.idea/
+.vscode/
+*.swp
+*~
+
+# Secrets (do not commit credentials or session exports)
+.env
+.env.*
+*.pem
+credentials.json
